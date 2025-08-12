@@ -1,0 +1,6 @@
+fastmcp
+httpx
+pydantic
+beautifulsoup4
+python-dotenv
+rsa
